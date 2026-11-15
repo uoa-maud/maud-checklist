@@ -96,7 +96,7 @@ cards:
       text: Circum-aural headphones cover the whole ear. Use them for extended high-frequency audiometry or when ambient noise is slightly raised.
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Practise transducer choice with an otoscopy finding
   figures: [insert-grommet, collapsing-canal]
   check:
@@ -164,7 +164,7 @@ cards:
     - "Video: bone conductor placement and the pinna-touch error (45 s)"
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Practise fitting decisions in a full test
   check:
     - q: The foam tip sits 3 mm outside the canal entrance. What changes?
@@ -263,7 +263,7 @@ cards:
     - "Video: a tester giving accidental visual cues, then the corrected version (60 s)"
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Practise threshold seeking on a normal and a sloping loss
   check:
     - q: "At 2 kHz the patient responds at 35 dB, misses at 25, responds at 30, misses at 20, responds at 25, misses at 15, responds at 20, misses at 10, misses at 15, responds at 20. What is the threshold?"
@@ -323,7 +323,7 @@ cards:
     - "Video: forehead vibrotactile check (45 s)"
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Practise bone conduction on a conductive and a mixed loss
   check:
     - q: Unmasked BC at 4 kHz is 15 dB HL; AC is 45 dB HL. The patient has noise-induced hearing loss. What do you check first?
@@ -369,7 +369,7 @@ cards:
   figures: [symbols]
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Plot a masked audiogram
   refs:
     - "American Speech-Language-Hearing Association. (2005). Guidelines for manual pure-tone threshold audiometry."
@@ -416,7 +416,7 @@ cards:
   figures: [cross-hearing]
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Decide when to mask on five audiograms
   check:
     - q: "Inserts, intermediate depth. Right AC 2 kHz = 70 dB HL. Left AC 2 kHz = 10 dB HL, left BC unknown. Mask right AC?"
@@ -483,7 +483,7 @@ cards:
     - "Video: a full plateau run on a unilateral loss, with the tester narrating each decision (2 min)"
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: "Practise plateau masking, and see what happens to a BC threshold with and without the OEF (demonstration link to come)"
   check:
     - q: "Inserts, intermediate depth. Masking BC at 500 Hz. AC<sub>NTE</sub> = 15 dB HL; the non-test ear has normal AC and no known air-bone gap. Initial masking level?"
@@ -529,7 +529,7 @@ cards:
   figures: [step-flow-ac]
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Practise step masking on a unilateral loss
   check:
     - q: "AC<sub>NTE</sub> = 5 dB HL. Unmasked AC<sub>TE</sub> = 60. With initial masking the threshold moves to 70. What next?"
@@ -573,7 +573,7 @@ cards:
   figures: [step-flow-bc]
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: "Practise BC step masking, and compare the result with and without the OEF (demonstration link to come)"
   check:
     - q: "Supra-aural masking, BC at 250 Hz, AC<sub>NTE</sub> = 20 dB HL. Initial masking?"

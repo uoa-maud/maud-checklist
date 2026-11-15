@@ -32,7 +32,7 @@ cards:
       why: Coming back to the patient's own concerns closes the loop, and shows the appointment was about them, not the audiogram.
   sim:
     name: history-taking simulator
-    url: https://jakalnz.github.io/history-taking-simulator/
+    url: https://uoa-maud.github.io/history-taking-simulator/
     label: Practise explaining a result to the same patient
   fixes:
     - "\"probably cause/s\" corrected to \"probable cause or causes\"."

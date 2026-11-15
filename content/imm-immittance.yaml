@@ -55,7 +55,7 @@ cards:
     - "Video: probe fit and getting a seal (45 s)"
   sim:
     name: immittance simulator
-    url: https://jakalnz.github.io/immittance-simulator/
+    url: https://uoa-maud.github.io/immittance-simulator/
     label: Run a tympanogram and record the five values
   fixes:
     - "\"whose who are extremely anxious\" corrected."
@@ -92,7 +92,7 @@ cards:
   figures: [tymp-types]
   sim:
     name: immittance simulator
-    url: https://jakalnz.github.io/immittance-simulator/
+    url: https://uoa-maud.github.io/immittance-simulator/
     label: Classify ten tympanograms
   check:
     - q: "MEP −180 daPa, Y 0.2 mmho, ECV 1.1 cm³. Type?"
@@ -152,7 +152,7 @@ cards:
   figures: [art-pathway]
   sim:
     name: immittance simulator
-    url: https://jakalnz.github.io/immittance-simulator/
+    url: https://uoa-maud.github.io/immittance-simulator/
     label: Predict reflex patterns for a right conductive and a right VIII lesion
   check:
     - q: "Probe left, stimulus right. Which pathway?"

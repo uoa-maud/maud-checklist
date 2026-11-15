@@ -10,8 +10,8 @@ import figures as F
 ROOT = pathlib.Path(__file__).parent
 SITE = ROOT / "site"
 PRINT = ROOT / "print"
-BASE_URL = "https://jakalnz.github.io/maud-checklist/"   # change when the repo moves
-REPO = "jakalnz/maud-checklist"                          # GitHub owner/repo for "Edit these tips" links
+BASE_URL = "https://uoa-maud.github.io/maud-checklist/"   # change when the repo moves
+REPO = "uoa-maud/maud-checklist"                          # GitHub owner/repo for "Edit these tips" links
 BRANCH = "main"
 
 SITEINFO = {"title": "Clinical Checklist", "version": "0.2 draft", "date": "2026-11-02"}

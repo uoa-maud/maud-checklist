@@ -49,7 +49,7 @@ cards:
         - Close the interview clearly before testing.
   sim:
     name: history-taking simulator
-    url: https://jakalnz.github.io/history-taking-simulator/
+    url: https://uoa-maud.github.io/history-taking-simulator/
     label: Practise an adult case history with a simulated patient
   check:
     - q: Rewrite as a non-leading question - "You don't get dizzy, do you?"
@@ -107,7 +107,7 @@ cards:
       text: Sudden hearing loss, unilateral tinnitus, or dizziness with neurological signs are red flags. See CLS-02 before the patient leaves.
   sim:
     name: history-taking simulator
-    url: https://jakalnz.github.io/history-taking-simulator/
+    url: https://uoa-maud.github.io/history-taking-simulator/
     label: Practise hypothesis-led questioning
   fixes: []
 
@@ -161,7 +161,7 @@ cards:
       text: Do not insert a speculum, probe or insert earphone into a discharging ear.
   sim:
     name: otoscopy simulator
-    url: https://jakalnz.github.io/otoscopy/
+    url: https://uoa-maud.github.io/otoscopy/
     label: Identify findings and choose the right description
   media_planned:
     - "Photo set: one example of each finding in the table"

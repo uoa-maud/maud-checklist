@@ -95,7 +95,7 @@ cards:
       text: "After 2–3 unsuccessful VRA attempts, move promptly to another method, such as ABR under general anaesthetic."
   sim:
     name: play audiometry simulator
-    url: https://jakalnz.github.io/play-audiometry/
+    url: https://uoa-maud.github.io/play-simulator/
     label: Practise conditioning and threshold search with a simulated child
   fixes:
     - "Heading numbering corrected (12.2.2.2 appeared inside 12.1.1)."
@@ -219,7 +219,7 @@ cards:
       pod: [cpa-bc-screen, vra-required-tests]
   sim:
     name: play audiometry simulator
-    url: https://jakalnz.github.io/play-audiometry/
+    url: https://uoa-maud.github.io/play-simulator/
     label: Run a full CPA session with a simulated child
   fixes:
     - "\"simplist\" corrected."
@@ -261,7 +261,7 @@ cards:
         - ["ECV post-tube (cm³)", "1.0–5.5", "1.0–5.5"]
   sim:
     name: immittance simulator
-    url: https://jakalnz.github.io/immittance-simulator/
+    url: https://uoa-maud.github.io/immittance-simulator/
     label: Classify infant 1 kHz and child 226 Hz tympanograms
   fixes:
     - "UNHSEIP reference updated from 2016 to the October 2023 edition; protocol unchanged."

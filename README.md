@@ -16,7 +16,7 @@ One source, two outputs:
 
 ## Publish
 
-Push the contents of `site/` to a GitHub repo (planned: jakalnz/maud-checklist) and enable Pages.
+Push the contents of `site/` to a GitHub repo (planned: uoa-maud/maud-checklist) and enable Pages.
 All internal links are relative, so the site can move to a dedicated MAud account later.
 Only `BASE_URL` in build.py (used for the QR codes) needs changing.
 

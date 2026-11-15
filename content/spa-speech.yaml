@@ -58,7 +58,7 @@ cards:
   figures: [pi-function]
   sim:
     name: speech testing simulator
-    url: https://jakalnz.github.io/speech-testing-simulator/
+    url: https://uoa-maud.github.io/speech-testing-simulator/
     label: Build a PI function and find the HPL
   check:
     - q: "2 kHz threshold is 35 dB HL. First presentation level?"
@@ -96,7 +96,7 @@ cards:
       text: "Results before 2000 (AB words on cassette) may be plotted in dB SPL. Insert: dB SPL = dB HL + 12.5. Supra-aural: dB SPL = dB HL + 20."
   sim:
     name: speech testing simulator
-    url: https://jakalnz.github.io/speech-testing-simulator/
+    url: https://uoa-maud.github.io/speech-testing-simulator/
     label: Score recorded responses phoneme by phoneme
   check:
     - q: "Target \"ship\", response \"chips\". Phoneme score?"
@@ -171,7 +171,7 @@ cards:
       text: A large ABG in the non-test ear can call for very high masking. Inserts reduce it by about 10 dB. Check comfort, and note any lower-than-ideal level on the audiogram.
   sim:
     name: speech testing simulator
-    url: https://jakalnz.github.io/speech-testing-simulator/
+    url: https://uoa-maud.github.io/speech-testing-simulator/
     label: Calculate speech masking for three audiograms
   check:
     - q: "Inserts. Left ear speech at 70 dB HL. Right ear AC is normal, BC not tested, best AC 0 dB HL at 250 Hz. Mask?"

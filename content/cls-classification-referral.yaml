@@ -51,7 +51,7 @@ cards:
         - ["Notched", "≥ 20 dB loss with full or near recovery at adjacent octaves"]
   sim:
     name: PTA simulator
-    url: https://jakalnz.github.io/pta-simulator/
+    url: https://uoa-maud.github.io/pta-simulator/
     label: Describe five audiograms, then check your words
   check:
     - q: "Thresholds 20, 25, 35, 50, 60 dB HL at 0.5, 1, 2, 4, 8 kHz. Configuration?"
